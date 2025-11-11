@@ -1,0 +1,6 @@
+CustomerID,CustomerName,Age,Income,Product,Amount,Region,SaleDate
+101,John Smith,25,50000,A,1000,North,2023-01-01
+102,Alice Johnson,30,60000,B,1500,South,2023-01-02
+103,Bob Smith,35,70000,C,2000,East,2023-01-03
+104,Eve Black,40,80000,D,2500,West,2023-01-04
+105,Jane Doe,45,90000,E,3000,North-west,2023-01-05
