@@ -72,7 +72,6 @@ The dashboard is built across multiple report pages, moving from a high-level pe
 ```
 ![Market Overview](images/market-overview.png)
 ![Sales Performance](images/sales-performance.png)
-![House Type Analysis](images/house-type-analysis.png)
 ```
 
 ## 💡 Key Insights
