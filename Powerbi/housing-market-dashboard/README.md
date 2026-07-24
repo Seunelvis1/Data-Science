@@ -66,16 +66,8 @@ The dashboard is built across multiple report pages, moving from a high-level pe
 
 ## 📸 Screenshots
 
-
-```
-![Alt text](/path/to/folder/image.png)
-![Alt text]([https://github.com/username/repo/raw/main/images/image.png](https://github.com/Seunelvis1/Data-Science/blob/master/Powerbi/housing-market-dashboard/images/market-overview.png))
-![Alt text]([https://github.com/username/repo/raw/main/images/image.png](https://github.com/Seunelvis1/Data-Science/blob/master/Powerbi/housing-market-dashboard/images/sales-performance.png))
 ![Market Overview](images/market-overview.png)
-![Sales Performance](images/sales-performance.png)
-```
-![Alt text]([https://github.com/username/repo/raw/main/images/image.png](https://github.com/Seunelvis1/Data-Science/blob/master/Powerbi/housing-market-dashboard/images/market-overview.png))
-![Alt text]([https://github.com/username/repo/raw/main/images/image.png](https://github.com/Seunelvis1/Data-Science/blob/master/Powerbi/housing-market-dashboard/images/sales-performance.png))
+
 ![Sales Performance](images/sales-performance.png)
 
 ## 💡 Key Insights
