@@ -57,7 +57,6 @@ The dashboard is built across multiple report pages, moving from a high-level pe
 | `AvgPricePerSQM` | Average price normalised by property size |
 | `Offer to SQM Ratio` | Offer price efficiency relative to property size |
 
-*(Add the actual DAX formulas here once finalised — this makes the repo far more useful to anyone reviewing your technical approach.)*
 
 ## 📄 Report Pages
 
@@ -67,7 +66,6 @@ The dashboard is built across multiple report pages, moving from a high-level pe
 
 ## 📸 Screenshots
 
-*(Add exported screenshots of each page here — see publishing steps below)*
 
 ```
 ![Market Overview](images/market-overview.png)
@@ -76,7 +74,6 @@ The dashboard is built across multiple report pages, moving from a high-level pe
 
 ## 💡 Key Insights
 
-*(Fill in 2-4 sentence bullets once you've reviewed the final visuals, e.g.:)*
 - Sales growth is strongest in **[region]**, driven by **[sales type]**
 - Offer-to-purchase price gaps are widest for **[house type]**, suggesting greater negotiation flexibility in that segment
 - **[Economic indicator]** shows the strongest relationship with purchase price per the Key Influencers analysis
