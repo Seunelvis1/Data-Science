@@ -4,8 +4,7 @@ A sales performance dashboard built around a star-schema data model, tracking Re
 
 ## Screenshots
 
-> *Add screenshots here after opening the template in Power BI Desktop (Overview page, Performance page).*
-
+![Alt text](images/Overview.png)   
 ## Data Model
 
 **Fact table:** `Sales` (SaleID, OrderID, ProductID, CustomerID, Date, Quantity, TotalAmount, SeenCount)
