@@ -66,11 +66,9 @@ The dashboard is built across multiple report pages, moving from a high-level pe
 
 ## 📸 Screenshots
 
-
-```
 ![Market Overview](images/market-overview.png)
+
 ![Sales Performance](images/sales-performance.png)
-```
 
 ## 💡 Key Insights
 
