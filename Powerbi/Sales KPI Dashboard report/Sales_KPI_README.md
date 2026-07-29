@@ -5,6 +5,10 @@ A sales performance dashboard built around a star-schema data model, tracking Re
 ## Screenshots
 
 ![Alt text](images/Overview.png)   
+![Alt text](images/Performance.png)
+![Alt text](images/DarkMood.png)   
+
+
 ## Data Model
 
 **Fact table:** `Sales` (SaleID, OrderID, ProductID, CustomerID, Date, Quantity, TotalAmount, SeenCount)
