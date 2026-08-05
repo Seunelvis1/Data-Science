@@ -53,18 +53,15 @@ This project analyses patient-level panic attack data to answer three core quest
 
 ## 📸 Screenshots
 
-*(Add exported screenshots of each page here — see publishing steps below)*
-
 ```
-![Cover Page](images/cover-page.png)
-![Symptoms Overview](images/symptoms-overview.png)
-![Required Analysis](images/required-analysis.png)
-![Age Group Analysis](images/age-group-analysis.png)
+![Alt text](images/Overview.png)   
+![Alt text](images/Required_Analysis.png)
+![Alt text](images/Age-group.png)
+
 ```
 
 ## 💡 Key Insights
 
-*(Fill in 2-4 sentence bullets once you've reviewed the final visuals, e.g.:)*
 - **[Symptom]** is the most commonly reported physical symptom among patients in this dataset
 - Patients with **[trigger reason]** as their primary trigger show **[higher/lower]** average panic scores
 - **[Age group]** reports the highest average panic attack frequency, most often triggered by **[reason]**
