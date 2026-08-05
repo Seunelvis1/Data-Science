@@ -55,7 +55,7 @@ This project analyses patient-level panic attack data to answer three core quest
 
 ![Alt text](images/Overview.png)   
 ![Alt text](images/Required_Analysis.png)
-![Alt text](images/Age-group.png)
+![Alt text](images/Age_group.png)
 
 
 ## 💡 Key Insights
