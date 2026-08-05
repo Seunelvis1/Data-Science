@@ -4,7 +4,10 @@ A sales performance dashboard built around a star-schema data model, tracking Re
 
 ## Screenshots
 
-> *Add screenshots here after opening the template in Power BI Desktop (Overview page, Performance page).*
+![Alt text](images/Overview.png)   
+![Alt text](images/Performance.png)
+![Alt text](images/DarkMood.png)   
+
 
 ## Data Model
 
