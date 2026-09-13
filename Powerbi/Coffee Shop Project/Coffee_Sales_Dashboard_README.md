@@ -71,10 +71,10 @@ A proper star schema: one fact table joined to three dimension tables.
 
 *(Add exported screenshots of each page here)*
 
-```
-![Overview](images/overview.png)
-![Monthly Analysis](images/monthly-analysis.png)
-```
+
+![Overview](img/Overview.png)
+![Monthly Analysis](img/Monthly Analysis.png)
+
 
 ## 💡 Key Insights
 
