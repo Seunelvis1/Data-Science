@@ -73,7 +73,7 @@ A proper star schema: one fact table joined to three dimension tables.
 
 
 ![Overview](img/Overview.png)
-![Monthly Analysis](img/Monthly Analysis.png)
+![Monthly Analysis](img/Monthly-Analysis.png)
 
 
 ## 💡 Key Insights
